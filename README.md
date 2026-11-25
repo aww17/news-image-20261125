@@ -1,10 +1,21 @@
-# The World in One Page — 25 November 2026
+# news-image-20261125
+
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/aww17/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/aww17/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 A single 1024 by 1024 newspaper front page that sums up the world news of Wednesday 25 November 2026.
-`main.py` copies the pre-rendered `entry.png` (beside it) into the output directory named by `MAKEFUN_OUTPUT_DIR`,
-or `/output` when unset, creating that directory if needed. Python 3.13 standard library only.
+`main.py` copies the pre-rendered `entry.png` (beside it) into the output directory named by `MAKEFUN_OUTPUT_DIR`, or `/output` when unset, creating that directory if needed. Python 3.13 standard library only.
 
-Entered in the make.fun bounty: https://make.fun/bounty/news-image-20261125
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=0rjezftt&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
 
 ## The seven stories
 
